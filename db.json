@@ -1,4 +1,4 @@
-{
+{ users : [
   {
     "id": "1",
     "name": "Clark Welch",
@@ -28,5 +28,5 @@
     "id": "6",
     "name": "Celia Reilly",
     "email": "Lula.Bergstrom@yahoo.com"
-  }
+  }]
 }
